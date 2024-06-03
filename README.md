@@ -70,13 +70,9 @@ AWS EC2 Manager is a Python-based GUI tool for managing AWS EC2 instances. With 
 
 ## Screenshots
 
-![AWS EC2 Manager Screenshot]
-
-## Contributing
-
-Contributions are welcome! Please create an issue or submit a pull request with your changes.
+![AWS EC2 Manager Screenshot](screenshot.png)
 
 ## License
 
-This project is licensed under the MIT License. See the /LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
