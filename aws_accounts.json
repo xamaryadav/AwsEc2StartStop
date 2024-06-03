@@ -1,0 +1,28 @@
+{
+    "accounts": [
+        {
+            "name": "Account 1",
+            "access_key": "your_access_key_1",
+            "secret_key": "your_secret_key_1",
+            "region": "your_region_1"
+        },
+        {
+            "name": "Account 2",
+            "access_key": "your_access_key_2",
+            "secret_key": "your_secret_key_2",
+            "region": "your_region_2"
+        },
+        {
+            "name": "Account 3",
+            "access_key": "your_access_key_3",
+            "secret_key": "your_secret_key_3",
+            "region": "your_region_3"
+        },
+	{
+            "name": "Account 4",
+            "access_key": "your_access_key_3",
+            "secret_key": "your_secret_key_3",
+            "region": "your_region_3"
+        }
+    ]
+}
